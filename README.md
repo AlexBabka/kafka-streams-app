@@ -7,4 +7,4 @@ Sample project to try out spring boot 2 with kafka integration
 - Install Kafka 1.0.0 (https://kafka.apache.org/quickstart - first 2 steps of the tutorial)
 
 # How to run application
-- mvn springboot:run
+- mvn spring-boot:run
